@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hoi!
 
-<!--
-**TiesNoordhuisBITAcademy/TiesNoordhuisBITAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ik ben Ties Noordhuis, coach bij de Bit Academy.  
+Mijn doel is om studenten te helpen de beste software developer te worden die ze kunnen zijn!
 
-Here are some ideas to get you started:
+# Coach profiel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Deze github bevat voorbeelden en experimenten voor de Bit Academy en haar studenten.  
+Daarnaast gebruik ik dit account om deel te nemen aan projecten van studenten.
+
+# Contact
+
+Email: [ties@bit-academy.nl](mailto:ties@bit-academy.nl)
